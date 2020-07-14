@@ -19,7 +19,7 @@
     "@grapecity/spread-excelio": "13.1.0",
     "@grapecity/spread-sheets-charts": "13.1.0",
     "file-saver": "2.0.2",
-    "jquery": "2.2.1"
+    "jquery": "3.5.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
